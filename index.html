@@ -1,49 +1,26 @@
 ---
 layout: index
-title: Home
+title: Mission and Market
 permalink: /
 ---
 
 <div class="container mtb" style="margin-top: 150px">
     <div class="row">
         <div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/about.jpg" | prepend: site.baseurl }}" alt="">
+            <img class="img-responsive" src="{{ "/assets/img/ste-fra-simo.jpg" | prepend: site.baseurl }}" alt="">
         </div>
         <div class="col-lg-6">
-            <h4>More About Our Agency.</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-            <p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            <p>Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+            <h4>Capital for founders with bold missions in big markets.</h4>
+            <p>Mission and Market is an angel fund backing the most exceptional founders in the SF Bay Area. We invest $25-50k in both angel and seed rounds, and aim to follow on in subsequent financings. We also do selective "chip" AngelList syndicate investments.</p>
+
+            <p>We're looking for scary, extremely risky bets on innovative technology and growing markets.</p>
+
+            <p>Our thesis is simple: fantastic people, with a bold mission, taking big risks in big or new markets. We want entrepreneurs to tell us what the world is going to look like in 5 to 10 years, and why they are the right team to take advantage of that. If we believe, we invest.</p>
+
+            <p>We have a hard no-bullshit policy. We try to minimize the time it takes for us to give a decision and wire the money, often sending wires the day after our first meeting.</p>
         </div>
     </div><! --/row -->
 </div><! --/container -->
 
 
 {% include portfolio.html title="Latest investments" limit=40 %}
-
-<div class="container mtb">
-    <div class="row">
-        <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About Our Agency.</h4>
-            <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-            {% endfor %}
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Latest Posts</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %} 
-        </div>
-
-    </div><! --/row -->
-</div><! --/container -->
