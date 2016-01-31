@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "EAZE"
+date:   2016-01-30 16:54:46
+author: M14T
+categories:
+- project
+img: eaze.png
+thumb: eaze.png
+tagged: Medical Marjiuana, On-demand, Mobile
+website: http://eazeup.com
+---
+####EAZE
+
+Eaze is an on-demand technology company that enables patients to access medical marijuana easily, quickly and professionally. Eaze links dispensaries and their drivers to patients. Through EazeMD patients can get their medical marijuana recommendations on-demand by videoconferencing with independent, board certified physicians. 
+
+Eaze enables deliveries in about 15 minutes door to door. With a verified doctor’s recommendation, patients place an order as needed. Eaze's technology then dispatches a driver to hand deliver the medicine to their home. Patients can track their delivery online in real time. The service is free to patients. 
+
+Ultimately, Eaze and EazeMD simplifies the process of acquiring a recommendation and medical marijuana so patients can focus on getting better -- not medicine deliveries.

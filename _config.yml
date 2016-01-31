@@ -47,7 +47,7 @@ members:
   - name: Francesco Simoneschi
     position: Partner
     text: "After having sold his second company Francesco is now a strategic consultant for a number of startups.  Previously, he was a Product Manager at UpSight, a mobile analytics company founded in 2007 that has raised more than $50M in venture capital.  As an enterpreneur, he co-fuonded Staq, a startup incubated by Microsoft and TechStars in Seattle and later acquired by UpSight. In 2007, Francesco also founded DomainsBot, an Italian company which is now part of the German group Sedo Holding Gmbh. In a previous life, he was a professional tenor, with more than three hundred live performances in Europe and Asia. In his spare time he plays the violin, is a sailing enthusiast and, more recently, he has dedicated himself to surf on the coast of California."
-    img: team02.jpg
+    img: fra.jpg
     social:
       - title: envelope #use for email address
         url: mailto:francesco@m14t.com
@@ -55,8 +55,8 @@ members:
         url: http://twitter.com/fsimoneschi
   - name: Simone Brunozzi
     position: Partner
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    text: "Since early 2016, Simone Brunozzi serves as CTO for Mosaixsoft Inc., a startup building a cloud computing product. Previously, Simone served as a Vice President and Chief Technologist (global role) for VMware Inc., focusing on Cloud technology (vCloud Air). Simone grew up in Italy, and after having been a four-times entrepreneur in Italy, a University professor at the young age of 26, a CTO, and after having written two technical books and two novels, he left Italy to join Amazon Web Services in March 2008 as the first Technology Evangelist for Europe (EMEA), to raise awareness about Cloud Computing and help developers build applications. In July 2012, Simone relocated to San Francisco, as the first Senior Technology Evangelist for Americas."
+    img: brunozzi.jpg
     social:
       - title: envelope #use for email address
         url: mailto:simone@m14t.com
@@ -65,7 +65,7 @@ members:
   - name: Stefano Bernardi
     position: Partner
     text: "Stefano is an entrepreneur, operator and investor. He most recently co-founded Kickpay, a fintech startup backed by the most successful VCs in the valley and part of Y Combinator's W15 batch. Previously Stefano was the first employee at Betable, where he helped the company scale to 40 people with $30M in funding. Stefano has worked in venture capital in Italy at dPixel, shadowed Dave McClure at 500 Startups, written for TechCrunch Europe and founded Italian Startup Scene (a 22k+ FB group). In his spare time - ha just kidding, he doesn't have any spare time! But he loves to spend time with his wife and son."
-    img: ste-headshot.jpg
+    img: ste.jpg
     social:
       - title: envelope #use for email address
         url: mailto:stefano@m14t.com
