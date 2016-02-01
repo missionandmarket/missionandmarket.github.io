@@ -6,7 +6,7 @@ author: M14T
 categories:
 - project
 img: hedgy.png
-thumb: hedg.png
+thumb: hedgy.png
 tagged: Bitcoin, Fintech, Derivatives
 website: http://hedgy.com
 ---

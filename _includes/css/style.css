@@ -505,3 +505,12 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+
+
+.he-wrap img {
+	opacity: 0.6;
+}
+
+.he-wrap img:hover {
+	opacity: 1;
+}

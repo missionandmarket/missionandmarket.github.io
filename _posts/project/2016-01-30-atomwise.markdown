@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "Atomwise"
+date:   2016-01-30 16:54:46
+author: M14T
+categories:
+- project
+img: atomwise.png
+thumb: atomwise.png
+tagged: Enterprise, Biotech, Digital Health
+website: http://atomwise.com
+---
+####Atomwise
+
+Atomwise uses Deep Learning Neural Networks to discover new medicines. Atomwise achieves the world’s best results for new drug hit discovery, binding affinity prediction, and toxicity detection. Atomwise predicts drug candidates for pharmaceutical compnies, startups, and research institutions.
