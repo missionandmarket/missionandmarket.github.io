@@ -507,13 +507,13 @@ a.anchor{
 }
 
 
-.he-wrap img {
+.portfolio-item img {
 	opacity: 0.6;
 	/*-webkit-filter: grayscale(100%);
 	filter: gray;
 	filter: grayscale(100%);*/
 }
 
-.he-wrap img:hover {
+.portfolio-item img:hover {
 	opacity: 1;
 }
