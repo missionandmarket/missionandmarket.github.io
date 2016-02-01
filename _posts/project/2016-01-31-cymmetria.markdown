@@ -5,8 +5,8 @@ date:   2016-01-31 16:54:46
 author: M14T
 categories:
 - project
-img: cymmetria.jpg
-thumb: cymmetria.jpg
+img: cymmetria.png
+thumb: cymmetria.png
 tagged: Security, Enterprise Security, Cyber Security
 website: http://www.cymmetria.com/
 ---
