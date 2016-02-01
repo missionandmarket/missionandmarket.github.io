@@ -509,6 +509,9 @@ a.anchor{
 
 .he-wrap img {
 	opacity: 0.6;
+	/*-webkit-filter: grayscale(100%);
+	filter: gray;
+	filter: grayscale(100%);*/
 }
 
 .he-wrap img:hover {

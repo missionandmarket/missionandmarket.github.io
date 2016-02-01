@@ -1,0 +1,22 @@
+---
+layout: project
+title:  “BENTO”
+date:   2016-01-30 16:54:46
+author: M14T
+categories:
+- project
+img: bento.png
+thumb: bento.png
+tagged: Mobile Commerce, Food and Beverages, Logistics, Local
+website: https://www.bentonow.com/
+---
+####BENTO
+
+Bento provides delicious asian food delivered in minutes.
+
+We believe that you should not have to choose between eating healthy and conveniently. Bento delivers delicious Asian food in minutes in San Francisco.
+Using our app, customers start building their Bento by choosing a main dish. We have three options, that rotate daily. Next customers choose four side dishes. We have six to eight side options, that also rotate daily.
+The menu focuses on Asian-inspired food with dishes like Korean short ribs, Japanese eggplant, dragon roll, seaweed salad, okonomiyaki, and gyoza.
+After placing an order, customers track their server’s location and progress. They’ll meet our server curbside, grab their Bento, and it’s time to eat!
+Our patent pending packaging enables this system allowing for delivery in an average of 15 minutes.
+Since launch we have seen double-digit W/W growth.

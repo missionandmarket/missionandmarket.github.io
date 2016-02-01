@@ -1,0 +1,19 @@
+---
+layout: project
+title:  “KONIKU”
+date:   2016-01-30 16:54:46
+author: M14T
+categories:
+- project
+img: koniku.jpg
+thumb: koniku.jpg
+tagged: BioTech, Neural Engineering, AI
+website: http://www.koniku.uk/
+---
+####KONIKU
+
+Koniku’s mission is to harness the power of Neurons.
+
+Neurons are massively parallel computational devices capable of processing contextual, poorly formed, multidimensional data more efficiently than any computer available.
+
+Our hardware is designed to take advantage of these natural benefits to use real neurons in a robust, reproducible and addressable way in order to define an architecture that is capable of tackling problems in visual processing, data processing, and pattern recognition.
