@@ -1,0 +1,17 @@
+---
+layout: project
+title:  “LANDED”
+date:   2016-01-31 16:54:46
+author: M14T
+categories:
+- project
+img: landed.png
+thumb: landed.png
+tagged: FinTech, Real Estate, P2P landing
+website: http://www.landed.com/
+---
+####LANDED
+
+We’re a San Francisco headquartered company on a mission: make it easier and smarter to buy and invest in urban homes.
+
+For homebuyers, we help you share some of the financial risk of buying a home with other trusted partners.
