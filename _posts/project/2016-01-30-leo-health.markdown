@@ -8,7 +8,7 @@ categories:
 img: leo-health.png
 thumb: leo-health.png
 tagged: Health Care, Digital Health
-website: http://www.koniku.uk/
+website: http://www.leohealth.com
 ---
 ####LEO HEALTH
 
