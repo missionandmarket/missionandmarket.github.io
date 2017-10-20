@@ -500,6 +500,14 @@ img {
   font-weight: 700;
 }
 
+.company-description {
+  color: #4b4b4b;
+  text-align: left;
+  padding-left:10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
 .subtitle-footer {
   font-family: Lato, sans-serif;
   color: #fff;
